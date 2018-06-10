@@ -6,5 +6,11 @@ The goal here is to create a simple GUI to deploy DSE. This will make it stupid-
 * Once OpsCenter is installed, a GUI webpage will load that will ask the user a series of questions
 * Based on those answers, the GUI will then work with the LCM API to setup a cluster
 
+# Requirements
+* TBD
+
+# Questions to ask
+* TBD
+
 # Next steps
 * Build out requirements
